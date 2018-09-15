@@ -18,13 +18,13 @@ Importing into Netbeans is achievable.
 Implementation
 --------------------------
 The implemented Java GUI, consists of 5 tabs.  
-Part A: Mergesort algorithm.  
-		File: DataStructuresProjectMergesort.java  
-Part B: Linear/Binary/Interpolation Search on Part's A output.  
-		File: MySearchClass.java  
-Part C: RedBlack Tree Creation and Search.  
-		File: MyRedBlackTree.java  
-Part 4: Experiment measurements on Part A and B output files.  
-		File: MainWindows.java -> jPanel4.form  
-Part 5: Trie Creation.  
-		File: MyTrie.java  
+*Part A: Mergesort algorithm.  
+ *File: DataStructuresProjectMergesort.java  
+*Part B: Linear/Binary/Interpolation Search on Part's A output.  
+  *File: MySearchClass.java  
+*Part C: RedBlack Tree Creation and Search.  
+  *File: MyRedBlackTree.java  
+*Part 4: Experiment measurements on Part A and B output files.  
+  *File: MainWindows.java -> jPanel4.form  
+*Part 5: Trie Creation.  
+  *File: MyTrie.java  
