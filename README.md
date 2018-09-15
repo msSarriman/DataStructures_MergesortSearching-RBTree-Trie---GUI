@@ -19,7 +19,7 @@ Implementation
 --------------------------
 The implemented Java GUI, consists of 5 tabs.  
 * Part A: Mergesort algorithm.  
- * File: DataStructuresProjectMergesort.java  
+  * File: DataStructuresProjectMergesort.java  
 * Part B: Linear/Binary/Interpolation Search on Part's A output.  
   * File: MySearchClass.java  
 * Part C: RedBlack Tree Creation and Search.  
