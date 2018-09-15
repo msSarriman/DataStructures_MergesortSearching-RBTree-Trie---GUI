@@ -1,5 +1,4 @@
 Data Structures Student Project
-
 Computer Engineering and Informatics Department, University of Patras
 ================================
 
