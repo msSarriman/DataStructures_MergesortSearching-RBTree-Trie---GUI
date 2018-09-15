@@ -1,4 +1,4 @@
-Data Structures Student Project
+Data Structures Student Project  
 Computer Engineering and Informatics Department, University of Patras
 ================================
 
@@ -13,7 +13,6 @@ Importing into Netbeans is achievable.
 
 ================================
 
-•	Source Files: ../src/datastructuresproject/
-
+•	Source Files: ../src/datastructuresproject/  
 • 	Jar file: ../dist/DataStructuresProject.jar
 
